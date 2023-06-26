@@ -38,6 +38,4 @@ const getUsernameFromInputArguments = async () => {
     return username;
 };
 
-
-
 export { sayHiToUser, sayByeToUser };
